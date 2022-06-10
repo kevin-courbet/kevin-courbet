@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @kevin-courbet
-- 👀 I’m interested in Vue.js, Nuxt, Python APIs, Serverless, Containers, CSS
-- 🌱 I’m currently learning as I go (full stack dev)
-- 💞️ I’m looking to collaborate on nothing unfortunately
-- 📫 How to reach me -> send me a mail
+- 👋 Hi, I’m Kevin Courbet.
+- 👀 I’m interested in Typescript, Vue.js, Serverless, Lambdas, Golang, CSS (Tailwind)
+- 🌱 I have 5+ years of experience building web apps as a full stack dev. I come from the corporate industry, having acted as Lead Dev, Tech Lead, and Engineering Manager in turn in global companies. My stack of choice is serverless with GCP (Firebase, ...), Vue.js (Typescript) + Tailwind for frontend, Golang for backend for speed, Python for data science.
 
 <!---
 kevin-courbet/kevin-courbet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
